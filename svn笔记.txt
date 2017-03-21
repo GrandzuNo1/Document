@@ -1,0 +1,4 @@
+svn服务端设置笔记
+
+1、设置svn端口
+svnserve -d -r D:/svn/test --listen-port 8087
